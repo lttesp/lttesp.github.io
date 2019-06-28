@@ -1,6 +1,6 @@
 # main text of home
 name: Prabhakaran  
-bio: 
+bio: Tech Enthusiast, Developer by Profession.
 
 # twitter summary info
 description: Blog about technology that I've learnt.
@@ -58,7 +58,7 @@ email: lttespk@gmail.com
 authors:
     prabhakaran:
         name: Prabhakaran
-        bio: A Man who travels the world eating noodles
+        bio: Problem Solver, Tech enthusiast
         external-image: false
         picture: assets/images/profile.png
         twitter: lttesp
